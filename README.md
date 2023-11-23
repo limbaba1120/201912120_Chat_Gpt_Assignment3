@@ -12,5 +12,5 @@
 
 ### 결과 이미지
 
-<img src="./image/result.png" width="800px" height="450px"></img><br/>
+<img src="./image/result.png" width="90px" height="400px"></img><br/>
 
